@@ -2,4 +2,4 @@
 ========
 
 Mission:
-To create a 3D-Sphere for slider alternatives.
+To create a 3D-Sphere phone browsing experience.
