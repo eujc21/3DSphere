@@ -1,0 +1,9 @@
+/*
+	Style Sheet
+*/
+
+canvas {
+	border: 4px solid #A0A0A0;
+	background: black;
+	display: block;
+}
